@@ -1,5 +1,5 @@
 {
   "user_id": 1,
   "jwt_token": "abc",
-  "refresh_token": "def",
+  "refresh_token": "def"
 }
