@@ -1,5 +1,6 @@
 {
-  ["user1: 1"],
+  "list":["user1": 1,
+  "user2": 2],
   "user_id": 1,
   "jwt_token": "abc",
   "refresh_token": "def"
